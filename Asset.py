@@ -1,9 +1,9 @@
 """
 File: Asset.py
-Description: <A brief description of this Python module.>
-Author: <full name>
-ID: <student_id>
-Username: <username>
+Description: Class to hold asset related defintions and methods
+Author: Andrew Watt
+ID: 110352236
+Username: WATAY024
 This is my own work as defined by the University's Academic Misconduct Policy.
 """
 class Asset:

@@ -1,9 +1,9 @@
 """
 File: main.py
-Description: <A brief description of this Python module.>
-Author: <full name>
-ID: <student_id>
-Username: <username>
+Description:  Main methods to be used in hacker simulation
+Author: Andrew Watt
+ID: 110352236
+Username: WATAY024
 This is my own work as defined by the University's Academic Misconduct Policy.
 """
 

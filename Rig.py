@@ -1,9 +1,9 @@
 """
 File: Rig.py
-Description: <A brief description of this Python module.>
-Author: <full name>
-ID: <student_id>
-Username: <username>
+Description: Rig Class
+Author: Andrew Watt
+ID: 110352236
+Username: WATAY024
 This is my own work as defined by the University's Academic Misconduct Policy.
 """
 
